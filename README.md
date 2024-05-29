@@ -2,10 +2,7 @@
 # Collabrateur :  
 N° 1 : ANDRIAMAHANINTSOA Elodie  
 N° 48 : RATSIMANDAVANA Rindratiana Holiniaina  
-
-# Introduction : 
-Ceci est une application, ou plutôt une plateforme, pour les professeurs et les étudiants.   
-Elle permet aux professeurs d'envoyer des devoirs et aux étudiants de répondre à ces devoirs qui leur sont destinés.  
+  
 
 # Quelles sont les étapes à suivre pour la faire fonctionner sur votre machine?  
 Cette partie est la partir BackEnd du projet .  
@@ -43,9 +40,16 @@ On a utilisé le gitHub de N° 1 ANDRIAMAHANINTSOA Elodie pour le deploiement du
 # Particularité   
 - Nous avons utiliser l'authentification à l'aide de JSON Web Tokens (JWT)  :    
     Queleues API ne sont accessible que si l'utilisateur est connecté et viens à enregisrer le `x-access-token` comme key avec la valeur du token dans headers .   
-    exemple d'API : 
-    
-- 
+    exemple d'API :   
+        - app.patch('/contenu/:id', VerifyTokenProf, contenuController.updateContenuNote);
+        - app.post('/contenu', VerifyToken, contenuController.createContenu);  
+
+A propos des sources de donnees , la collection ` assignment` est relié à quelque table donc on a eu des incohernces au niveua de la generation de donnée.
+Ce qui nous a obligé à mettre la version final avec une source de donnee reduite .
+Les données que l'on devait inserer se situent dans :   
+    [text](../../matiere_promotion_prof.json)    
+    [text](../../contenu.json)   
+    [text](../../eleve_assignment.json)
 
 
 

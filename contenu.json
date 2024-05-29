@@ -1,0 +1,1430 @@
+{
+    "_id": "contenu_promotion1_eleve1_assignment1",
+    "id_assignment": "assignment_1",
+    "id_eleve": "eleve_1",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 1 - Élève 1",
+    "note": 0,
+    "reponse": "Réponse au devoir 1 de promotion 1 - Élève 1",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": true
+},
+{
+    "_id": "contenu_promotion1_eleve1_assignment2",
+    "id_assignment": "assignment_2",
+    "id_eleve": "eleve_1",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 1 - Élève 1",
+    "note": 0,
+    "reponse": "Réponse au devoir 2 de promotion 1 - Élève 1",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": true
+},
+{
+    "_id": "contenu_promotion1_eleve1_assignment3",
+    "id_assignment": "assignment_3",
+    "id_eleve": "eleve_1",
+    "commentaire": "Commentaire pour le devoir 3 de promotion 1 - Élève 1",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve1_assignment4",
+    "id_assignment": "assignment_4",
+    "id_eleve": "eleve_1",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 2 - Élève 1",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve1_assignment5",
+    "id_assignment": "assignment_5",
+    "id_eleve": "eleve_1",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 2 - Élève 1",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve3_assignment1",
+    "id_assignment": "assignment_1",
+    "id_eleve": "eleve_3",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 1 - Élève 3",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve3_assignment2",
+    "id_assignment": "assignment_2",
+    "id_eleve": "eleve_3",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 1 - Élève 3",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve3_assignment3",
+    "id_assignment": "assignment_3",
+    "id_eleve": "eleve_3",
+    "commentaire": "Commentaire pour le devoir 3 de promotion 1 - Élève 3",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve3_assignment4",
+    "id_assignment": "assignment_4",
+    "id_eleve": "eleve_3",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 2 - Élève 3",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve3_assignment5",
+    "id_assignment": "assignment_5",
+    "id_eleve": "eleve_3",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 2 - Élève 3",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve6_assignment1",
+    "id_assignment": "assignment_1",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 1 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve6_assignment2",
+    "id_assignment": "assignment_2",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 1 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve6_assignment3",
+    "id_assignment": "assignment_3",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour le devoir 3 de promotion 1 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve6_assignment4",
+    "id_assignment": "assignment_4",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 2 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve6_assignment5",
+    "id_assignment": "assignment_5",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 2 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve7_assignment1",
+    "id_assignment": "assignment_1",
+    "id_eleve": "eleve_7",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 1 - Élève 7",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve7_assignment2",
+    "id_assignment": "assignment_2",
+    "id_eleve": "eleve_7",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 1 - Élève 7",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve7_assignment3",
+    "id_assignment": "assignment_3",
+    "id_eleve": "eleve_7",
+    "commentaire": "Commentaire pour le devoir 3 de promotion 1 - Élève 7",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve7_assignment4",
+    "id_assignment": "assignment_4",
+    "id_eleve": "eleve_7",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 2 - Élève 7",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve7_assignment5",
+    "id_assignment": "assignment_5",
+    "id_eleve": "eleve_7",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 2 - Élève 7",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": false
+} ,
+{
+    "_id": "contenu_promotion2_eleve4_assignment1",
+    "id_assignment": "assignment_1",
+    "id_eleve": "eleve_4",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 2 - Élève 4",
+    "note": 0,
+    "reponse": "Réponse au devoir 1 de promotion 2 - Élève 4",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": true
+},
+{
+    "_id": "contenu_promotion2_eleve4_assignment2",
+    "id_assignment": "assignment_2",
+    "id_eleve": "eleve_4",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 2 - Élève 4",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve4_assignment3",
+    "id_assignment": "assignment_3",
+    "id_eleve": "eleve_4",
+    "commentaire": "Commentaire pour le devoir 3 de promotion 2 - Élève 4",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve4_assignment4",
+    "id_assignment": "assignment_4",
+    "id_eleve": "eleve_4",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 1 - Élève 4",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve4_assignment5",
+    "id_assignment": "assignment_5",
+    "id_eleve": "eleve_4",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 1 - Élève 4",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve5_assignment1",
+    "id_assignment": "assignment_1",
+    "id_eleve": "eleve_5",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 2 - Élève 5",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve5_assignment2",
+    "id_assignment": "assignment_2",
+    "id_eleve": "eleve_5",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 2 - Élève 5",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve5_assignment3",
+    "id_assignment": "assignment_3",
+    "id_eleve": "eleve_5",
+    "commentaire": "Commentaire pour le devoir 3 de promotion 2 - Élève 5",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve5_assignment4",
+    "id_assignment": "assignment_4",
+    "id_eleve": "eleve_5",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 1 - Élève 5",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve5_assignment5",
+    "id_assignment": "assignment_5",
+    "id_eleve": "eleve_5",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 1 - Élève 5",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve6_assignment1",
+    "id_assignment": "assignment_1",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 2 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve6_assignment2",
+    "id_assignment": "assignment_2",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 2 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve6_assignment3",
+    "id_assignment": "assignment_3",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour le devoir 3 de promotion 2 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve6_assignment4",
+    "id_assignment": "assignment_4",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 1 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve6_assignment5",
+    "id_assignment": "assignment_5",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 1 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve8_assignment1",
+    "id_assignment": "assignment_1",
+    "id_eleve": "eleve_8",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 2 - Élève 8",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve8_assignment2",
+    "id_assignment": "assignment_2",
+    "id_eleve": "eleve_8",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 2 - Élève 8",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve8_assignment3",
+    "id_assignment": "assignment_3",
+    "id_eleve": "eleve_8",
+    "commentaire": "Commentaire pour le devoir 3 de promotion 2 - Élève 8",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve8_assignment4",
+    "id_assignment": "assignment_4",
+    "id_eleve": "eleve_8",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 1 - Élève 8",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve8_assignment5",
+    "id_assignment": "assignment_5",
+    "id_eleve": "eleve_8",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 1 - Élève 8",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve9_assignment1",
+    "id_assignment": "assignment_1",
+    "id_eleve": "eleve_9",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 2 - Élève 9",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve9_assignment2",
+    "id_assignment": "assignment_2",
+    "id_eleve": "eleve_9",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 2 - Élève 9",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve9_assignment3",
+    "id_assignment": "assignment_3",
+    "id_eleve": "eleve_9",
+    "commentaire": "Commentaire pour le devoir 3 de promotion 2 - Élève 9",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve9_assignment4",
+    "id_assignment": "assignment_4",
+    "id_eleve": "eleve_9",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 1 - Élève 9",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve9_assignment5",
+    "id_assignment": "assignment_5",
+    "id_eleve": "eleve_9",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 1 - Élève 9",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve10_assignment1",
+    "id_assignment": "assignment_1",
+    "id_eleve": "eleve_10",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 2 - Élève 10",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve10_assignment2",
+    "id_assignment": "assignment_2",
+    "id_eleve": "eleve_10",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 2 - Élève 10",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve10_assignment3",
+    "id_assignment": "assignment_3",
+    "id_eleve": "eleve_10",
+    "commentaire": "Commentaire pour le devoir 3 de promotion 2 - Élève 10",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve10_assignment4",
+    "id_assignment": "assignment_4",
+    "id_eleve": "eleve_10",
+    "commentaire": "Commentaire pour le devoir 1 de promotion 1 - Élève 10",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-05-31T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve10_assignment5",
+    "id_assignment": "assignment_5",
+    "id_eleve": "eleve_10",
+    "commentaire": "Commentaire pour le devoir 2 de promotion 1 - Élève 10",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-15T00:00:00.000Z",
+    "siNote": false
+},
+// =========================================
+{
+    "_id": "contenu_promotion1_eleve1_assignment11",
+    "id_assignment": "assignment_11",
+    "id_eleve": "eleve_1",
+    "commentaire": "Commentaire pour le devoir 6 de promotion 1 - Élève 1",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-08-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve1_assignment13",
+    "id_assignment": "assignment_13",
+    "id_eleve": "eleve_1",
+    "commentaire": "Commentaire pour le devoir 7 de promotion 1 - Élève 1",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-08-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve1_assignment14",
+    "id_assignment": "assignment_14",
+    "id_eleve": "eleve_1",
+    "commentaire": "Commentaire pour le devoir 8 de promotion 1 - Élève 1",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-09-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve1_assignment15",
+    "id_assignment": "assignment_15",
+    "id_eleve": "eleve_1",
+    "commentaire": "Commentaire pour le devoir 9 de promotion 1 - Élève 1",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-09-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve1_assignment18",
+    "id_assignment": "assignment_18",
+    "id_eleve": "eleve_1",
+    "commentaire": "Commentaire pour le devoir 12 de promotion 1 - Élève 1",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-11-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve6_assignment11",
+    "id_assignment": "assignment_11",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour le devoir 6 de promotion 1 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-08-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve6_assignment13",
+    "id_assignment": "assignment_13",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour le devoir 7 de promotion 1 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-08-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve6_assignment14",
+    "id_assignment": "assignment_14",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour le devoir 8 de promotion 1 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-09-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve6_assignment15",
+    "id_assignment": "assignment_15",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour le devoir 9 de promotion 1 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-09-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve6_assignment18",
+    "id_assignment": "assignment_18",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour le devoir 12 de promotion 1 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-11-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve4_assignment12",
+    "id_assignment": "assignment_12",
+    "id_eleve": "eleve_4",
+    "commentaire": "Commentaire pour le devoir 6 de promotion 2 - Élève 4",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-08-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve4_assignment16",
+    "id_assignment": "assignment_16",
+    "id_eleve": "eleve_4",
+    "commentaire": "Commentaire pour le devoir 10 de promotion 2 - Élève 4",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-10-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve4_assignment17",
+    "id_assignment": "assignment_17",
+    "id_eleve": "eleve_4",
+    "commentaire": "Commentaire pour le devoir 11 de promotion 2 - Élève 4",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-10-30T00:00:00.000Z",
+    "siNote": false
+},
+,
+{
+    "_id": "contenu_promotion2_eleve4_assignment18",
+    "id_assignment": "assignment_18",
+    "id_eleve": "eleve_4",
+    "commentaire": "Commentaire pour le devoir 12 de promotion 2 - Élève 4",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-11-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve4_assignment19",
+    "id_assignment": "assignment_19",
+    "id_eleve": "eleve_4",
+    "commentaire": "Commentaire pour le devoir 13 de promotion 2 - Élève 4",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-11-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve5_assignment12",
+    "id_assignment": "assignment_12",
+    "id_eleve": "eleve_5",
+    "commentaire": "Commentaire pour le devoir 6 de promotion 2 - Élève 5",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-08-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve5_assignment16",
+    "id_assignment": "assignment_16",
+    "id_eleve": "eleve_5",
+    "commentaire": "Commentaire pour le devoir 10 de promotion 2 - Élève 5",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-10-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve5_assignment17",
+    "id_assignment": "assignment_17",
+    "id_eleve": "eleve_5",
+    "commentaire": "Commentaire pour le devoir 11 de promotion 2 - Élève 5",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-10-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve5_assignment18",
+    "id_assignment": "assignment_18",
+    "id_eleve": "eleve_5",
+    "commentaire": "Commentaire pour le devoir 12 de promotion 2 - Élève 5",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-11-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve5_assignment19",
+    "id_assignment": "assignment_19",
+    "id_eleve": "eleve_5",
+    "commentaire": "Commentaire pour le devoir 13 de promotion 2 - Élève 5",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-11-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve8_assignment12",
+    "id_assignment": "assignment_12",
+    "id_eleve": "eleve_8",
+    "commentaire": "Commentaire pour le devoir 6 de promotion 2 - Élève 8",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-08-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve8_assignment16",
+    "id_assignment": "assignment_16",
+    "id_eleve": "eleve_8",
+    "commentaire": "Commentaire pour le devoir 10 de promotion 2 - Élève 8",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-10-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve8_assignment17",
+    "id_assignment": "assignment_17",
+    "id_eleve": "eleve_8",
+    "commentaire": "Commentaire pour le devoir 11 de promotion 2 - Élève 8",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-10-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve8_assignment18",
+    "id_assignment": "assignment_18",
+    "id_eleve": "eleve_8",
+    "commentaire": "Commentaire pour le devoir 12 de promotion 2 - Élève 8",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-11-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve8_assignment19",
+    "id_assignment": "assignment_19",
+    "id_eleve": "eleve_8",
+    "commentaire": "Commentaire pour le devoir 13 de promotion 2 - Élève 8",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-11-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve9_assignment12",
+    "id_assignment": "assignment_12",
+    "id_eleve": "eleve_9",
+    "commentaire": "Commentaire pour le devoir 6 de promotion 2 - Élève 9",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-08-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve9_assignment16",
+    "id_assignment": "assignment_16",
+    "id_eleve": "eleve_9",
+    "commentaire": "Commentaire pour le devoir 10 de promotion 2 - Élève 9",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-10-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve9_assignment17",
+    "id_assignment": "assignment_17",
+    "id_eleve": "eleve_9",
+    "commentaire": "Commentaire pour le devoir 11 de promotion 2 - Élève 9",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-10-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve9_assignment18",
+    "id_assignment": "assignment_18",
+    "id_eleve": "eleve_9",
+    "commentaire": "Commentaire pour le devoir 12 de promotion 2 - Élève 9",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-11-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve9_assignment19",
+    "id_assignment": "assignment_19",
+    "id_eleve": "eleve_9",
+    "commentaire": "Commentaire pour le devoir 13 de promotion 2 - Élève 9",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-11-30T00:00:00.000Z",
+    "siNote": false
+},{
+    "_id": "contenu_promotion2_eleve10_assignment12",
+    "id_assignment": "assignment_12",
+    "id_eleve": "eleve_10",
+    "commentaire": "Commentaire pour le devoir 6 de promotion 2 - Élève 10",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-08-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve10_assignment16",
+    "id_assignment": "assignment_16",
+    "id_eleve": "eleve_10",
+    "commentaire": "Commentaire pour le devoir 10 de promotion 2 - Élève 10",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-10-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve10_assignment17",
+    "id_assignment": "assignment_17",
+    "id_eleve": "eleve_10",
+    "commentaire": "Commentaire pour le devoir 11 de promotion 2 - Élève 10",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-10-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve10_assignment18",
+    "id_assignment": "assignment_18",
+    "id_eleve": "eleve_10",
+    "commentaire": "Commentaire pour le devoir 12 de promotion 2 - Élève 10",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-11-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve10_assignment19",
+    "id_assignment": "assignment_19",
+    "id_eleve": "eleve_10",
+    "commentaire": "Commentaire pour le devoir 13 de promotion 2 - Élève 10",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-11-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve4_assignment20",
+    "id_assignment": "assignment_20",
+    "id_eleve": "eleve_4",
+    "commentaire": "Commentaire pour le devoir 14 de promotion 2 - Élève 4",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-12-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve5_assignment20",
+    "id_assignment": "assignment_20",
+    "id_eleve": "eleve_5",
+    "commentaire": "Commentaire pour le devoir 14 de promotion 2 - Élève 5",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-12-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve8_assignment20",
+    "id_assignment": "assignment_20",
+    "id_eleve": "eleve_8",
+    "commentaire": "Commentaire pour le devoir 14 de promotion 2 - Élève 8",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-12-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve9_assignment20",
+    "id_assignment": "assignment_20",
+    "id_eleve": "eleve_9",
+    "commentaire": "Commentaire pour le devoir 14 de promotion 2 - Élève 9",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-12-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve10_assignment20",
+    "id_assignment": "assignment_20",
+    "id_eleve": "eleve_10",
+    "commentaire": "Commentaire pour le devoir 14 de promotion 2 - Élève 10",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-12-15T00:00:00.000Z",
+    "siNote": false
+},
+// ========================================
+{
+    "_id": "contenu_promotion1_eleve1_assignment21",
+    "id_assignment": "assignment_21",
+    "id_eleve": "eleve_1",
+    "commentaire": "Commentaire pour le devoir 15 de promotion 1 - Élève 1",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-01-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve1_assignment22",
+    "id_assignment": "assignment_22",
+    "id_eleve": "eleve_1",
+    "commentaire": "Commentaire pour le devoir 16 de promotion 1 - Élève 1",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-01-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve1_assignment23",
+    "id_assignment": "assignment_23",
+    "id_eleve": "eleve_1",
+    "commentaire": "Commentaire pour le devoir 17 de promotion 1 - Élève 1",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-02-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve1_assignment24",
+    "id_assignment": "assignment_24",
+    "id_eleve": "eleve_1",
+    "commentaire": "Commentaire pour le devoir 18 de promotion 1 - Élève 1",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-02-28T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve1_assignment25",
+    "id_assignment": "assignment_25",
+    "id_eleve": "eleve_1",
+    "commentaire": "Commentaire pour l'assignment 25 de promotion 1 - Élève 1",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-01T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve2_assignment21",
+    "id_assignment": "assignment_21",
+    "id_eleve": "eleve_2",
+    "commentaire": "Commentaire pour le devoir 15 de promotion 1 - Élève 2",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-01-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve2_assignment22",
+    "id_assignment": "assignment_22",
+    "id_eleve": "eleve_2",
+    "commentaire": "Commentaire pour le devoir 16 de promotion 1 - Élève 2",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-01-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve2_assignment23",
+    "id_assignment": "assignment_23",
+    "id_eleve": "eleve_2",
+    "commentaire": "Commentaire pour le devoir 17 de promotion 1 - Élève 2",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-02-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve2_assignment24",
+    "id_assignment": "assignment_24",
+    "id_eleve": "eleve_2",
+    "commentaire": "Commentaire pour le devoir 18 de promotion 1 - Élève 2",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-02-28T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve2_assignment25",
+    "id_assignment": "assignment_25",
+    "id_eleve": "eleve_2",
+    "commentaire": "Commentaire pour l'assignment 25 de promotion 1 - Élève 2",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-01T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve3_assignment21",
+    "id_assignment": "assignment_21",
+    "id_eleve": "eleve_3",
+    "commentaire": "Commentaire pour le devoir 15 de promotion 1 - Élève 3",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-01-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve3_assignment22",
+    "id_assignment": "assignment_22",
+    "id_eleve": "eleve_3",
+    "commentaire": "Commentaire pour le devoir 16 de promotion 1 - Élève 3",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-01-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve3_assignment23",
+    "id_assignment": "assignment_23",
+    "id_eleve": "eleve_3",
+    "commentaire": "Commentaire pour le devoir 17 de promotion 1 - Élève 3",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-02-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve3_assignment24",
+    "id_assignment": "assignment_24",
+    "id_eleve": "eleve_3",
+    "commentaire": "Commentaire pour le devoir 18 de promotion 1 - Élève 3",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-02-28T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve3_assignment25",
+    "id_assignment": "assignment_25",
+    "id_eleve": "eleve_3",
+    "commentaire": "Commentaire pour l'assignment 25 de promotion 1 - Élève 3",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-01T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve6_assignment21",
+    "id_assignment": "assignment_21",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour le devoir 15 de promotion 1 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-01-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve6_assignment22",
+    "id_assignment": "assignment_22",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour le devoir 16 de promotion 1 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-01-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve6_assignment23",
+    "id_assignment": "assignment_23",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour le devoir 17 de promotion 1 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-02-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve6_assignment24",
+    "id_assignment": "assignment_24",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour le devoir 18 de promotion 1 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-02-28T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve6_assignment25",
+    "id_assignment": "assignment_25",
+    "id_eleve": "eleve_6",
+    "commentaire": "Commentaire pour l'assignment 25 de promotion 1 - Élève 6",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-01T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve7_assignment21",
+    "id_assignment": "assignment_21",
+    "id_eleve": "eleve_7",
+    "commentaire": "Commentaire pour le devoir 15 de promotion 1 - Élève 7",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-01-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve7_assignment22",
+    "id_assignment": "assignment_22",
+    "id_eleve": "eleve_7",
+    "commentaire": "Commentaire pour le devoir 16 de promotion 1 - Élève 7",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-01-30T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve7_assignment23",
+    "id_assignment": "assignment_23",
+    "id_eleve": "eleve_7",
+    "commentaire": "Commentaire pour le devoir 17 de promotion 1 - Élève 7",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-02-15T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve7_assignment24",
+    "id_assignment": "assignment_24",
+    "id_eleve": "eleve_7",
+    "commentaire": "Commentaire pour le devoir 18 de promotion 1 - Élève 7",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2025-02-28T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion1_eleve7_assignment25",
+    "id_assignment": "assignment_25",
+    "id_eleve": "eleve_7",
+    "commentaire": "Commentaire pour l'assignment 25 de promotion 1 - Élève 7",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-01T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve4_assignment26",
+    "id_assignment": "assignment_26",
+    "id_eleve": "eleve_4",
+    "commentaire": "Commentaire pour l'assignment 26 de promotion 2 - Élève 4",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-02T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve4_assignment27",
+    "id_assignment": "assignment_27",
+    "id_eleve": "eleve_4",
+    "commentaire": "Commentaire pour l'assignment 27 de promotion 2 - Élève 4",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-03T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve4_assignment28",
+    "id_assignment": "assignment_28",
+    "id_eleve": "eleve_4",
+    "commentaire": "Commentaire pour l'assignment 28 de promotion 2 - Élève 4",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-04T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve4_assignment29",
+    "id_assignment": "assignment_29",
+    "id_eleve": "eleve_4",
+    "commentaire": "Commentaire pour l'assignment 29 de promotion 2 - Élève 4",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-05T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve4_assignment30",
+    "id_assignment": "assignment_30",
+    "id_eleve": "eleve_4",
+    "commentaire": "Commentaire pour l'assignment 30 de promotion 2 - Élève 4",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-06T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve5_assignment26",
+    "id_assignment": "assignment_26",
+    "id_eleve": "eleve_5",
+    "commentaire": "Commentaire pour l'assignment 26 de promotion 2 - Élève 5",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-02T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve5_assignment27",
+    "id_assignment": "assignment_27",
+    "id_eleve": "eleve_5",
+    "commentaire": "Commentaire pour l'assignment 27 de promotion 2 - Élève 5",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-03T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve5_assignment28",
+    "id_assignment": "assignment_28",
+    "id_eleve": "eleve_5",
+    "commentaire": "Commentaire pour l'assignment 28 de promotion 2 - Élève 5",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-04T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve5_assignment29",
+    "id_assignment": "assignment_29",
+    "id_eleve": "eleve_5",
+    "commentaire": "Commentaire pour l'assignment 29 de promotion 2 - Élève 5",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-05T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve5_assignment30",
+    "id_assignment": "assignment_30",
+    "id_eleve": "eleve_5",
+    "commentaire": "Commentaire pour l'assignment 30 de promotion 2 - Élève 5",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-06T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve8_assignment26",
+    "id_assignment": "assignment_26",
+    "id_eleve": "eleve_8",
+    "commentaire": "Commentaire pour l'assignment 26 de promotion 2 - Élève 8",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-02T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve8_assignment27",
+    "id_assignment": "assignment_27",
+    "id_eleve": "eleve_8",
+    "commentaire": "Commentaire pour l'assignment 27 de promotion 2 - Élève 8",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-03T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve8_assignment28",
+    "id_assignment": "assignment_28",
+    "id_eleve": "eleve_8",
+    "commentaire": "Commentaire pour l'assignment 28 de promotion 2 - Élève 8",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-04T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve8_assignment29",
+    "id_assignment": "assignment_29",
+    "id_eleve": "eleve_8",
+    "commentaire": "Commentaire pour l'assignment 29 de promotion 2 - Élève 8",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-05T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve8_assignment30",
+    "id_assignment": "assignment_30",
+    "id_eleve": "eleve_8",
+    "commentaire": "Commentaire pour l'assignment 30 de promotion 2 - Élève 8",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-06T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve9_assignment26",
+    "id_assignment": "assignment_26",
+    "id_eleve": "eleve_9",
+    "commentaire": "Commentaire pour l'assignment 26 de promotion 2 - Élève 9",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-02T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve9_assignment27",
+    "id_assignment": "assignment_27",
+    "id_eleve": "eleve_9",
+    "commentaire": "Commentaire pour l'assignment 27 de promotion 2 - Élève 9",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-03T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve9_assignment28",
+    "id_assignment": "assignment_28",
+    "id_eleve": "eleve_9",
+    "commentaire": "Commentaire pour l'assignment 28 de promotion 2 - Élève 9",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-04T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve9_assignment29",
+    "id_assignment": "assignment_29",
+    "id_eleve": "eleve_9",
+    "commentaire": "Commentaire pour l'assignment 29 de promotion 2 - Élève 9",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-05T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve9_assignment30",
+    "id_assignment": "assignment_30",
+    "id_eleve": "eleve_9",
+    "commentaire": "Commentaire pour l'assignment 30 de promotion 2 - Élève 9",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-06T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve10_assignment26",
+    "id_assignment": "assignment_26",
+    "id_eleve": "eleve_10",
+    "commentaire": "Commentaire pour l'assignment 26 de promotion 2 - Élève 10",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-02T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve10_assignment27",
+    "id_assignment": "assignment_27",
+    "id_eleve": "eleve_10",
+    "commentaire": "Commentaire pour l'assignment 27 de promotion 2 - Élève 10",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-03T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve10_assignment28",
+    "id_assignment": "assignment_28",
+    "id_eleve": "eleve_10",
+    "commentaire": "Commentaire pour l'assignment 28 de promotion 2 - Élève 10",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-04T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve10_assignment29",
+    "id_assignment": "assignment_29",
+    "id_eleve": "eleve_10",
+    "commentaire": "Commentaire pour l'assignment 29 de promotion 2 - Élève 10",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-05T00:00:00.000Z",
+    "siNote": false
+},
+{
+    "_id": "contenu_promotion2_eleve10_assignment30",
+    "id_assignment": "assignment_30",
+    "id_eleve": "eleve_10",
+    "commentaire": "Commentaire pour l'assignment 30 de promotion 2 - Élève 10",
+    "note": 0,
+    "reponse": "",
+    "dateRendu": "2024-06-06T00:00:00.000Z",
+    "siNote": false
+},
+// ===================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

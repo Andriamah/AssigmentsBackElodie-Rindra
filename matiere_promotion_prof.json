@@ -1,0 +1,84 @@
+ "matieres": [
+        {
+            "_id": "matiere_1",
+            "intitule": "Informatique",
+            "image": "chemin/vers/image_informatique.jpg"
+        },
+        {
+            "_id": "matiere_2",
+            "intitule": "Mathématiques",
+            "image": "chemin/vers/image_mathematiques.jpg"
+        },
+        {
+            "_id": "matiere_3",
+            "intitule": "Français",
+            "image": "chemin/vers/image_francais.jpg"
+        },
+        {
+            "_id": "matiere_4",
+            "intitule": "Histoire",
+            "image": "chemin/vers/image_histoire.jpg"
+        },
+        {
+            "_id": "matiere_5",
+            "intitule": "Physique",
+            "image": "chemin/vers/image_physique.jpg"
+        }
+    ],
+    "promotions": [
+        {
+            "_id": "promotion_1",
+            "intitule": "Promotion A"
+        },
+        {
+            "_id": "promotion_2",
+            "intitule": "Promotion B"
+        }
+    ],
+    "profs": [
+        {
+            "_id": "prof_1",
+            "nom": "Durand",
+            "prenom": "Jean",
+            "mail": "jean.durand@example.com",
+            "mdp": "motdepasse123",
+            "id_matiere": "matiere_1",
+            "photo": "chemin/vers/photo_jean_durand.jpg"
+        },
+        {
+            "_id": "prof_2",
+            "nom": "Dubois",
+            "prenom": "Sophie",
+            "mail": "sophie.dubois@gmail.com",
+            "mdp": "mdp456",
+            "id_matiere": "matiere_2",
+            "photo": "chemin/vers/photo_sophie_dubois.jpg"
+        },
+        {
+            "_id": "prof_3",
+            "nom": "Lefevre",
+            "prenom": "Pierre",
+            "mail": "pierre.lefevre@gmail.com",
+            "mdp": "mdp789",
+            "id_matiere": "matiere_3",
+            "photo": "chemin/vers/photo_pierre_lefevre.jpg"
+        },
+        {
+            "_id": "prof_4",
+            "nom": "Moreau",
+            "prenom": "Marie",
+            "mail": "marie.moreau@gmail.com",
+            "mdp": "pass123",
+            "id_matiere": "matiere_4",
+            "photo": "chemin/vers/photo_marie_moreau.jpg"
+        },
+        {
+            "_id": "prof_5",
+            "nom": "Rousseau",
+            "prenom": "Philippe",
+            "mail": "philippe.rousseau@gmail.com",
+            "mdp": "mdp456",
+            "id_matiere": "matiere_5",
+            "photo": "chemin/vers/photo_philippe_rousseau.jpg"
+        }
+    ],
