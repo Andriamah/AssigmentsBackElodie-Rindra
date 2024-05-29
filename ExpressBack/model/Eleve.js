@@ -2,7 +2,7 @@ let mongoose = require('mongoose');
 let Schema = mongoose.Schema;
 
 let EleveSchema = Schema({
-    _id: { type: mongoose.Schema.Types.ObjectId, default: mongoose.Types.ObjectId },
+    // _id: { type: mongoose.Schema.Types.ObjectId, default: mongoose.Types.ObjectId },
     nom : String,
     prenom : String,
     mail : String ,
